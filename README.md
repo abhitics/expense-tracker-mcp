@@ -151,6 +151,4 @@ This repository is intentionally small and focused on serving as a practical exa
 - category editor UI
 - authentication or multi-user support
 
-## License
 
-This project does not currently declare a license file. If you plan to publish or share it publicly, consider adding an appropriate license (for example MIT or Apache 2.0).
